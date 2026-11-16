@@ -12,7 +12,7 @@
 
 - **2026.11**：获睿抗机器人开发者大赛 **国家一等奖**（**队长**）
 - **2026.08**：获 RoboCup 机器人世界杯中国赛「AI+智创未来」**国家二等奖**（**队长**）；中国大学生计算机设计大赛 **国家二等奖**（主力队员）
-- **2025.11**：获全国大学生信息安全与对抗技术竞赛（ISCC）**国家三等奖**（**队长**）；立项国家级大创「**多模态医疗护理机器人**」并担任**项目负责人**
+- **2025.11**：获全国大学生信息安全与对抗技术竞赛（ISCC）**国家三等奖**（**队长**）；立项国家级大创「**全域守护 · 具身看护机器人**」并担任**项目负责人**
 - **2025.10**：获 RoboCup 机器人世界杯中国赛 **国家三等奖**（**队长**）
 - **2025.08**：获中国机器人及人工智能大赛 **国家三等奖**（**队长**）
 
@@ -28,7 +28,7 @@
 | 2025.08 | 中国机器人及人工智能大赛 · 机器人任务挑战赛（智慧药房） | 国家三等奖 | **队长** |
 | — | 蓝桥杯 | 省二等奖 | **队长** |
 
-- 国家级大学生创新创业训练计划 **项目负责人**（多模态医疗护理机器人，2025.11 立项）
+- 国家级大学生创新创业训练计划 **项目负责人**（全域守护 · 具身看护机器人，原「多模态医疗护理机器人」，2025.11 立项）
 
 ### 🏅 获奖证书
 
@@ -44,7 +44,7 @@
 
 ## 🤖 项目经历
 
-### 1️⃣ 多模态医疗护理机器人 · 国家级大创
+### 1️⃣ 全域守护 · 具身看护机器人（灵犀通感 · 多模态医疗护理机器人）· 国家级大创
 **🏷 项目负责人 / 队长** ｜ 2025.11 至今 ｜ SolidWorks · STM32 · 视觉识别 · 多机协同
 
 双机械臂 + 移动底盘形态，面向养老陪护场景：**SolidWorks** 完成整机、双臂与底盘建模装配及爆炸图渲染；**独立开发 STM32 底层电控**（电机驱动、传感器采集、运动控制）；统筹机械、算法两组分工，完成整机联调。
@@ -52,10 +52,34 @@
 <table>
 <tr>
   <td align="center"><img src="assets/eldercare/robot_render.png" width="300"><br><sub>整机三维建模与渲染</sub></td>
+  <td align="center"><img src="assets/eldercare/robot_front.jpg" width="300"><br><sub>整机实物：正面（双臂 + 底盘 + 相机）</sub></td>
+  <td align="center"><img src="assets/eldercare/robot_three_quarter.jpg" width="300"><br><sub>整机实物：三维视角联调</sub></td>
+</tr>
+<tr>
   <td align="center"><img src="assets/eldercare/robot_real.jpg" width="300"><br><sub>整机实物联调</sub></td>
+  <td align="center"><img src="assets/eldercare/robot_back.jpg" width="300"><br><sub>背部结构：双臂、升降躯干与底盘</sub></td>
+  <td align="center"><img src="assets/eldercare/chassis_build.jpg" width="300"><br><sub>铝合金底盘装配与电控走线</sub></td>
+</tr>
+<tr>
+  <td align="center"><img src="assets/eldercare/gripper_real.jpg" width="300"><br><sub>3D 打印机械臂与夹爪实物</sub></td>
   <td align="center"><img src="assets/eldercare/gripper.jpg" width="300"><br><sub>机械臂夹爪对比设计</sub></td>
+  <td align="center"><img src="assets/eldercare/dev_process.jpg" width="300"><br><sub>产品开发历程</sub></td>
 </tr>
 </table>
+
+<details>
+<summary><b>🎬 实物运行视频（点击展开）</b></summary>
+
+<table>
+<tr>
+  <td align="center"><video src="assets/eldercare/arm_demo.mp4" width="320" controls preload="none" poster="assets/eldercare/gripper_real.jpg"></video><br><sub>自研 6 自由度机械臂 Demo：关节联动与末端轨迹运动</sub></td>
+  <td align="center"><video src="assets/eldercare/arm_demo2.mp4" width="320" controls preload="none" poster="assets/eldercare/gripper_real.jpg"></video><br><sub>机械臂取放动作 Demo</sub></td>
+</tr>
+</table>
+
+🔗 [▶ 直接下载原视频 1](assets/eldercare/arm_demo.mp4) ｜ [▶ 原视频 2](assets/eldercare/arm_demo2.mp4)
+
+</details>
 
 ### 2️⃣ 基于 Webots 的虚实结合六轴协作机械臂 · 睿抗国赛
 **🏷 队长** ｜ 国家一等奖 ｜ Webots · OpenCV · 单应性标定 · Client-Server 通信
@@ -65,13 +89,32 @@
 <table>
 <tr>
   <td align="center"><img src="assets/arm/arm_national.jpg" width="320"><br><sub>国赛实物六轴机械臂</sub></td>
-  <td align="center"><img src="assets/arm/sorting_targets.jpg" width="320"><br><sub>传送带物料分拣目标</sub></td>
-  <td align="center"><img src="assets/arm/calibration.jpg" width="320"><br><sub>九点标定与视觉-机械臂坐标拟合</sub></td>
+  <td align="center"><img src="assets/arm/arm_vertical.jpg" width="320"><br><sub>机械臂本体与九点标定工位</sub></td>
+  <td align="center"><img src="assets/arm/arm_sorting_workcell.jpg" width="320"><br><sub>实物分拣工位与彩色物块</sub></td>
 </tr>
 <tr>
-  <td align="center" colspan="3"><img src="assets/arm/webots_arm.png" width="240"><br><sub>Webots 虚拟仿真环境</sub></td>
+  <td align="center"><img src="assets/arm/sorting_targets.jpg" width="320"><br><sub>传送带物料分拣目标</sub></td>
+  <td align="center"><img src="assets/arm/calibration.jpg" width="320"><br><sub>九点标定与视觉-机械臂坐标拟合</sub></td>
+  <td align="center"><img src="assets/arm/webots_arm.png" width="240"><br><sub>Webots 虚拟仿真环境</sub></td>
 </tr>
 </table>
+
+<details>
+<summary><b>🎬 国赛实物运行视频（点击展开）</b></summary>
+
+<table>
+<tr>
+  <td align="center"><video src="assets/arm/arm_national_run.mp4" width="320" controls preload="none" poster="assets/arm/arm_national.jpg"></video><br><sub>国赛现场：视觉定位 → 吸取物块 → 分拣入槽</sub></td>
+  <td align="center"><video src="assets/arm/arm_six_blocks_run.mp4" width="320" controls preload="none" poster="assets/arm/arm_sorting_workcell.jpg"></video><br><sub>多物块连续吸取与形状分拣</sub></td>
+</tr>
+<tr>
+  <td align="center" colspan="2"><video src="assets/arm/arm_practice_run.mp4" width="440" controls preload="none" poster="assets/arm/arm_vertical.jpg"></video><br><sub>国赛前联调练习：完整抓取与分拣流程</sub></td>
+</tr>
+</table>
+
+🔗 [▶ 直接下载原视频 · 国赛现场](assets/arm/arm_national_run.mp4) ｜ [▶ 多物块分拣](assets/arm/arm_six_blocks_run.mp4) ｜ [▶ 赛前联调练习](assets/arm/arm_practice_run.mp4)
+
+</details>
 
 ### 3️⃣ 智慧药房自主配送小车 · CRAIC / ISCC 国赛
 **🏷 队长 / 负责人** ｜ 国家三等奖 ×2 ｜ ROS · 激光 SLAM · AMCL · OpenCV · 二维码/OCR
