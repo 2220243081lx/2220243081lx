@@ -115,6 +115,11 @@
   <td align="center"><img src="assets/arm/webots_arm.png" width="240"><br><sub>Webots 虚拟仿真环境</sub></td>
 </tr>
 <tr>
+  <td align="center"><img src="assets/arm/grasp_moment.jpg" width="220"><br><sub>真机运行：末端吸取物块瞬间</sub></td>
+  <td align="center"><img src="assets/arm/sorting_cell_frame.jpg" width="320"><br><sub>真机运行：分拣料盘与彩色物块</sub></td>
+  <td align="center"><img src="assets/arm/arm_gripper_workcell.jpg" width="150"><br><sub>抓取工位实况</sub></td>
+</tr>
+<tr>
   <td align="center"><img src="assets/arm/webots_sim_1.png" width="320"><br><sub>省赛 Webots 仿真：机械臂对位料槽</sub></td>
   <td align="center"><img src="assets/arm/webots_sim_2.png" width="320"><br><sub>省赛 Webots 仿真：吸取星形物块</sub></td>
   <td align="center"><img src="assets/arm/webots_sim_3.png" width="320"><br><sub>省赛 Webots 仿真：形状识别与分拣</sub></td>
