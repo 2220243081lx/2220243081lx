@@ -31,6 +31,8 @@
 | 2025.10 | 中国机器人大赛暨 RoboCup 机器人世界杯中国赛 · 创新创意赛 · 文化艺术创意 | 国家三等奖 | **队长** |
 | 2025.08 | 中国机器人及人工智能大赛 · 机器人任务挑战赛（智慧药房） | 国家三等奖 | **队长** |
 | — | 蓝桥杯 | 省二等奖 | **队长** |
+| 2025 | 中国船级社奖学金（专项奖学金） | **二等** | 获奖者 |
+| 2025 | 校级优秀学生一等奖学金 | **一等奖**（前 7%） | 获奖者 |
 
 - 国家级大学生创新创业训练计划 **项目负责人**（全域守护 · 具身看护机器人，原「多模态医疗护理机器人」，2025.11 立项）
 
@@ -43,6 +45,18 @@
   <td align="center"><img src="assets/certificates/cert_robocup_2025.jpg" width="300"><br><sub><b>2025 中国机器人大赛暨 RoboCup 中国赛 · 国家三等奖</b><br>创新创意赛 · 文化艺术创意 · 队伍「终极规律队」</sub></td>
 </tr>
 </table>
+
+### 📜 奖学金与语言等级证明
+
+<table>
+<tr>
+  <td align="center" valign="top"><img src="assets/certificates/scholarship_class_society.jpg" width="300"><br><sub><b>中国船级社奖学金 · 二等</b><br>2024–2025 学年专项奖学金申请表<br>大连海事大学 船舶电气工程学院</sub></td>
+  <td align="center" valign="top"><img src="assets/certificates/cert_cet6_535.jpg" width="300"><br><sub><b>全国大学英语六级（CET-6）· 总分 535</b><br>听力 201 · 阅读 229 · 写作与翻译 105</sub></td>
+  <td align="center" valign="top"><img src="assets/certificates/cert_cet4_580.jpg" width="300"><br><sub><b>全国大学英语四级（CET-4）· 总分 580</b><br>听力 220 · 阅读 195 · 写作与翻译 165</sub></td>
+</tr>
+</table>
+
+🔗 [📄 奖学金申请表原件（PDF · 2 页）](assets/certificates/scholarship_class_society.pdf)
 
 ---
 
@@ -157,6 +171,19 @@
   <td align="center"><img src="assets/car/slam_map.png" width="320"><br><sub>激光 SLAM 建图与路径规划</sub></td>
 </tr>
 </table>
+
+<details>
+<summary><b>🎬 赛场实物运行视频（点击展开）</b></summary>
+
+<table>
+<tr>
+  <td align="center"><video src="assets/car/car_pharmacy_run.mp4" width="440" controls preload="none" poster="assets/car/car_run_poster.jpg"></video><br><sub>智慧药房小车自主运行实况（车载视角）：SLAM 定位 → 路径规划 → 自主驶入任务区（化验区）</sub></td>
+</tr>
+</table>
+
+🔗 [▶ 直接下载原视频](assets/car/car_pharmacy_run.mp4)
+
+</details>
 
 ### 4️⃣ ROSMan 人形机器人 · 智能安全挑战（ISCC 仿人智能体赛题）
 **🏷 队长** ｜ 参赛项目 ｜ ROS · Docker · AprilTag · 视觉伺服 · 舵机步态
