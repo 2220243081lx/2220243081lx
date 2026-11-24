@@ -247,5 +247,14 @@
 
 ## 📮 联系方式
 
-- 邮箱：3163079468@qq.com
-- GitHub：[@2220243081lx](https://github.com/2220243081lx)
+- 📱 **手机 / 电话**：13554808655
+- ✉️ **邮箱**：3163079468@qq.com
+- 💬 **微信**：`mid-360`（可扫码添加，见下方二维码）
+- 🐙 **GitHub**：[@2220243081lx](https://github.com/2220243081lx)
+
+<table>
+<tr>
+  <td align="center"><img src="assets/contact/wechat_qr.jpg" width="230"><br><sub><b>微信二维码</b><br>微信 ID：mid-360 ｜ 扫一扫添加好友</sub></td>
+  <td align="center"><img src="assets/contact/wechat_qr.png" width="230"><br><sub><b>微信二维码（PNG 高清版）</b><br>点击图片可放大保存</sub></td>
+</tr>
+</table>
