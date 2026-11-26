@@ -24,7 +24,7 @@
 
 | 时间 | 奖项 | 级别 | 我的角色 |
 | --- | --- | --- | --- |
-| 2026.11 | 睿抗机器人开发者大赛 · 智能配送与分拣赛道 | **国家一等奖** | **队长** |
+| 2026.11 | 睿抗机器人开发者大赛 · 智能配送与分拣赛道（辽宁省赛一等奖 → 全国总决赛一等奖） | **国家一等奖** | **队长** |
 | 2026.11 | 全国大学生嵌入式芯片与系统设计竞赛 · FPGA 创新设计赛道 | **国家二等奖** | **队长** |
 | 2026.08 | RoboCup 机器人世界杯中国赛 · 创新创意赛「AI+智创未来」 | **国家二等奖** | **队长** |
 | 2026.08 | 中国大学生计算机设计大赛 · 软件开发与应用 | **国家二等奖** | 主力队员 |
@@ -43,7 +43,12 @@
 <tr>
   <td align="center"><img src="assets/certificates/cert_robocup_2026.jpg" width="300"><br><sub><b>2026 RoboCup 中国赛 · AI+智创未来 · 国家二等奖</b><br>队伍「Sincerely」· 队长</sub></td>
   <td align="center"><img src="assets/certificates/cert_iscc_2025.jpg" width="300"><br><sub><b>2025 第 22 届 ISCC · 国家三等奖</b><br>智能安全赛 · 医疗配送机器人（智慧药房项目）</sub></td>
-  <td align="center"><img src="assets/certificates/cert_robocup_2025.jpg" width="300"><br><sub><b>2025 中国机器人大赛暨 RoboCup 中国赛 · 国家三等奖</b><br>创新创意赛 · 文化艺术创意 · 队伍「终极规律队」</sub></td>
+  <td align="center"><img src="assets/certificates/cert_robocup_2025.jpg" width="300"><br><sub><b>2025 中国机器人大赛暨 RoboCup 机器人世界杯 · 国家三等奖</b><br>创新创意赛 · 文化艺术创意 · 队伍「终极规律队」</sub></td>
+</tr>
+<tr>
+  <td align="center"><img src="assets/certificates/cert_raikang_national_1st.jpg" width="300"><br><sub><b>2026 睿抗机器人开发者大赛（RAICOM）· 全国总决赛 · 国家一等奖</b><br>智能配送与分拣赛道 · 队伍「好好学习小分队」· 队长<br>证书编号 IITCHJRAIC26015442</sub></td>
+  <td align="center"><img src="assets/certificates/cert_raikang_provincial_1st.jpg" width="300"><br><sub><b>2026 睿抗机器人开发者大赛（RAICOM）· 辽宁赛区 · 一等奖</b><br>智能配送与分拣赛道 · 队伍「好好学习小分队」· 队长<br>证书编号 IITCHJRAIC26004437</sub></td>
+  <td align="center">&nbsp;</td>
 </tr>
 </table>
 
